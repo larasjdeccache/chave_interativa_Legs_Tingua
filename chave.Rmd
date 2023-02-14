@@ -1,0 +1,146 @@
+---
+title: "Chave"
+author: "Lara S.J. Deccache"
+date: "October, 2022"
+output: html_document
+---
+
+#### Chave de identificação para as espécies arbóreas de Leguminosae da Reserva Biológica do Tinguá, Rio de Janeiro, Brasil
+
+|. | |
+|-------------------------------------------------------------------------------------|-----------------:|
+|**1.** Folhas simples ou compostas unifolioladas| **2** |
+|**1'.** Folhas compostas com mais de um folíolo| **4** |
+|**2.** Ramos com acúleos nas axilas; folhas compostas (pulvínulo presente), bilobadas; fruto tipo legume | ***Bauhinia forficata*** |
+|**2'.** Ramos sem acúleos nas axilas; folhas simples (pulvínulo ausente), obovadas a elípticas; fruto tipo legume nucóide |**3** |
+|**3.** Ramos com estípulas membranáceas e folhas com margem inteira a repanda e nervuras impressas na face abaxial | ***Zollernia glabra*** |
+|**3'.** Ramos com estípulas rígidas e folhas com margem repanda a denticulata e nervuras proeminentes na face abaxial | ***Zollernia ilicifolia*** |
+|**4.** Folhas pinadas|**5**|
+|**4'.** Folhas parcialmente bipinadas ou bipinadas | **52**|
+|**5.** Folhas imparipinadas |**6**|
+|**5'.** Folhas paripinadas | **30**|
+|**6.** Folhas opostas |**7** |
+|**6'.** Folhas alternas |**8** |
+|**7.** Folíolos com face abaxial glabra, venação broquidódroma |***Platymiscium floribundum*** |
+|**7'.** Folíolos com face abaxial vilosa, venação craspedódroma |***Platymiscium pubescens*** |
+|**8.** Lâmina foliar com pontoações translúcidas |***Myrocarpus frondosus*** |
+|**8'.** Lâmina foliar sem pontoações translúcidas |**9** |
+|**9.** Folhas, inflorescências e frutos com glândulas peltadas alaranjadas; fruto sâmara com acúleos no núcleo seminífero |***Centrolobium robustum*** |
+|**9'.** Folhas, inflorescências e frutos sem glândulas peltadas alaranjadas; fruto legume, legume samaróide ou sâmara, neste caso sem acúleos no núcleo seminífero |**10** |
+|**10.** Folhas trifolioladas de pecíolo e raque cilíndricos |**11** |
+|**10'.** Folhas com mais de três folíolos ou, quando trifolioladas, de pecíolo e raque alados |**13** |
+|**11.** Ramos armados, folhas com estipelas glandulares; flores com estandarte envolvendo demais peças florais e alas reduzidas; fruto folículo |***Erythrina verna***|
+|**11'.** Ramos inermes, folhas sem estipelas glandulares; flores sem estandarte envolvendo demais peças florais e alas não reduzidas; fruto legume ou legume samaróide |**12** |
+|**12.** Folíolos rômbicos, estipelas presentes; fruto legume (deiscente)|***Platycyamus regnellii***|
+|**12'.** Folíolos obovados ou elípticos, estipelas ausentes; fruto legume samaróide (indeiscente)|***Muellera filipes*** |
+|**13.** Folíolos com margem repanda ou denticulada |**14** |
+|**13'.** Folíolos com margem inteira |**15** |
+|**14.** Folíolos ovados a oblongos, estipelas deltóides; flores papilionadas, com cálice campanulado; fruto sâmara |***Vatairea heteroptera*** |
+|**14'.** Folíolos rômbicos a assimétricos, estipelas filiformes; flores não papilionadas, com cálice recurvo; fruto legume bacóide |***Exostyles venusta*** |
+|**15.** Estípulas espinescentes na base da folha; fruto sâmara |**16** |
+|**15'.** Estípulas não espinescentes na base da folha; fruto drupa ou legume |**18** |
+|**16.** Folíolos 29−45, até 0,4 cm larg., ápice retuso |***Machaerium hirtum*** |
+|**16'.** Folíolos 7−21, 0,4−2,0 cm larg, ápice agudo a acuminado, obtuso, emarginado, às vezes mucronado |**17** |
+|**17.** Folíolos com ápice agudo a acuminado, glabros ou pubérulos na nervura central da face abaxial |***Machaerium brasiliense*** |
+|**17'** Folíolos com ápice obtuso ou emarginado, às vezes mucronado, seríceos na face abaxial |***Machaerium nyctitans*** |
+|**18.** Folhas com folíolos opostos a subopostos |**19** |
+|**18'.** Folhas com folíolos alternos |**26** |
+|**19.** Estipelas ausentes|**20**|
+|**19'.** Estipelas presentes|**21** |
+|**20.** Folhas glabras; inflorescência congesta, flores com cálice com pontoações vináceas; fruto legume nucóide |***Dahlstedtia pinnata***|
+|**20'.** Folhas com folíolos vilosos na face abaxial; inflorescência laxa, flores com cálice sem pontoações vináceas; fruto legume |***Ormosia fastigiata***|
+|**21.** Folíolos 17−25; flores com uma pétala alva |***Swartzia flaemingii***|
+|**21'.** Folíolos 3−11; flores apetalas, com uma pétala amarela, ou com 5 pétalas alvas, rosadas ou violáceas |**22** |
+|**22.** Folhas com pecíolo e raque marginados a alados; flores com uma pétala amarela  |**23**|
+|**22'.** Folhas com pecíolo cilíndrico e raque cilíndrica ou canaliculada |**24**|
+|**23.** Folhas com 3−5 folíolos|***Swartzia simplex*** |
+|**23'.** Folhas com 5−11 folíolos|***Swartzia myrtifolia*** |
+|**24.** Folhas com pecíolo e raque glabros ou pubérulos, com 7−9 folíolos; flores com cálice inteiro no botão floral, apétalas |***Swartzia apetala*** |
+|**24'.** Folhas com pecíolo e raque pubescentes, tomentosos ou vilosos; flores com prefloração imbricada e 5 pétalas |**25** |
+|**25.** Folíolos com margem revoluta, venação craspedódroma; fruto tipo sâmara  |***Hymenolobium janeirense*** |
+|**25'.** Folíolos com margem levemente revoluta na base, venação broquidódroma; fruto tipo drupa |**26** |
+|**26.** Folíolos com ápice acuminado, indumento castanho-claro na face abaxial |***Andira fraxinifolia*** |
+|**26'.** Folíolos com ápice emarginado ou arredondado, indumento castanho-ferrugíneo na face abaxial |***Andira ormosioides*** |
+|**27.** Folíolos com nervuras secundárias impressas na face adaxial; flores alvas; fruto legume samaróide|**28** |
+|**27'.** Folíolos com nervuras secundárias proeminentes na face adaxial; flores amarelas; fruto sâmara |**30** |
+|**28.** Folíolos 7−11; flores não papilionadas, trímeras |***Apuleia leiocarpa*** |
+|**28'.** Folíolos 13−25; flores papilionadas, pentâmeras |**29** |
+|**29.** Folíolos 22−25, papiráceos; flores com ovário viloso |***Dalbergia foliolosa*** |
+|**29'.** Folíolos 13-19, cartáceos; flores com ovário pubescente |***Dalbergia nigra*** |
+|**30.** Folíolos obovados ou oblanceolados, de ápice emarginado; fruto com núcleo seminífero distal e ala basal |***Platypodium elegans*** |
+|**30'.** Folíolos ovados a elípticos, de ápice atenuado a acuminado; fruto com núcleo seminífero central e ala marginal |***Pterocarpus violaceus*** |
+|**31.** Lâmina foliar com pontoações translúcidas |**32** |
+|**31'.** Lâmina foliar sem pontoações translúcidas |**35** |
+|**32.** Folhas bifolioladas |**33**|
+|**32'.** Folhas com mais de dois folíolos |**34**|
+|**33.** Folíolos de base oblíqua, lâmina com nectários extraflorais; flores com estigma não peltado; fruto legume bacóide (indeiscente) |***Hymenaea altissima*** |
+|**33'.** Folíolos de base cuneada, lâmina sem nectários extraflorais; flores com estigma peltado; fruto legume (deiscente) |***Peltogyne angustiflora*** |
+|**34.** Folíolos 3−5 pares, de ápice agudo a acuminado |***Copaifera lucens*** |
+|**34'.** Folíolos 10−16 pares, de ápice obtuso |***Copaifera trapezifolia*** |
+|**35.** Folhas com nectários extraflorais |**36** |
+|**35'.** Folhas sem nectários extraflorais |**48** |
+|**36.** Nectários extraflorais estipitados na raque entre o par de folíolos proximal; flores com estaminódios |**37**|
+|**36'.** Nectários extraflorais sésseis na raque entre o par de folíolos proximal; flores sem estaminódios |**38**|
+|**37.** Folíolos 2 pares|***Senna macranthera*** |
+|**37'.** Folíolos 12−32 pares|***Senna multijuga***|
+|**38.** Folhas com pecíolo e raque cilíndricos  |**39**|
+|**38'.** Folhas com pecíolo e/ou raque marginados a alados |**41** |
+|**39.** Folhas com pecíolo e raque vilosos ou pilosos, folíolos sempre em 3 pares, pubescentes na lâmina foliar |***Inga bullata*** |
+|**39'.** Folhas com pecíolo e raque glabros, folíolos de 3−4 pares, glabros  |**40** |
+|**40.** Folíolos oblongos a elípticos, venação eucamptódroma; unidade de inflorescência racemo umbeliforme, flores actinomorfas, pré-floração valvar, cálice e corola concrescidos e androceu com estames unidos em tubo estaminal |***Inga flageliformis*** |
+|**40'.** Folíolos elípticos a obovados, venação broquidódroma; unidades de inflorescência racemo corimbiforme, flores zigomorfas, pré-floração imbricada, cálice e corola livres e androceu com estames livres |***Chamaecrista ensiformis*** |
+|**41.** Folhas como pecíolo alado; flores 5,3−11,1 cm compr.; frutos vilosos  |***Inga sessilis*** |
+|**41'.** Folhas com pecíolo cilíndrico ou marginado; flores menores que 5 cm compr.; frutos glabros a tomentosos  |**42** |
+|**42.** Folhas com 2−3 folíolos |**43**|
+|**42'.** Folhas com 3−10 folíolos  |**45** |
+|**43.** Ramos esparsamente lenticelados; estípulas filiformes; folhas com pecíolo e raque marginados, glabros; flores subsésseis a pediceladas, 1,6−1,8 cm compr. |***Inga lanceifolia*** |
+|**43'.** Ramos densamente lenticelados; estípulas lanceoladas ou elípticas, folhas com pecíolo cilíndrico a marginado e raque cilíndrica a alada; flores sésseis, 1,2−1,5 cm compr.  |**44** |
+|**44.** Ramos puberulentos; unidades de inflorescência racemos espiciformes congestos (raque menor que o pedúnculo), cálice e corola tomentosos  |***Inga lenticellata*** |
+|**44'.** Ramos glabros; unidades de inflorescência racemos espiciformes laxos (raque maior que o pedúnculo), cálice pubérulo e corola glabra  |***Inga marginata*** |
+|**45.** Folíolos 0,7−4,0 × 0,3−0,9 cm, papiráceos, sem indumento |***Inga tenuis*** |
+|**45'.** Folíolos 3,1−20,0 × 1,4−8,0 cm, cartáceos, com indumento |**46** |
+|**46.** Nectários extraflorais cupuliformes, compressos transversalmente; fruto cilíndrico, sulcado | ***Inga edulis*** |
+|**46'.** Nectários extraflorais pateliformes, circulares, fruto tetragonal ou plano, lisos |**47**|
+|**47.** Flores com cálice apresentando estrias transversais; fruto tetragonal |***Inga striata*** |
+|**47'.** Flores com cálice liso; fruto plano  |***Inga*** **cf.** ***mendoncaei*** |
+|**48.** Folhas com 12−36 folíolos; flores amarelas, androceu com os 3 estames abaxiais sigmoides; fruto lomento-drupáceo |***Cassia ferruginea*** |
+|**48'.** Folhas com 2−14 folíolos; flores vermelhas, alvo-esverdeadas ou amareladas, androceu com todos os filetes eretos; fruto criptossâmara ou sâmara |**49** |
+|**49.** Folíolos com 1,9−5,3 cm compr.; flores vermelhas, cálice tetrâmero e corola trímera; fruto sâmara |***Barnebydendron riedelii*** |
+|**49'.** Folíolos com 3,7−13,4 cm compr.; flores alvo-esverdeadas ou amareladas, pentâmeras; fruto criptossâmara |**50** |
+|**50.** Folhas com 10−14 pares de folíolos; flores 1,2−2,3 cm compr. |***Tachigali paratyensis*** |
+|**50'.** Folhas com 2−7 pares de folíolos; flores 0,4−0,8 cm compr. |**51**|
+|**51.** Folíolos oblongos a elípticos, glabros; flores pediceladas |***Tachigali pilgeriana*** |
+|**51'.** Folíolos subfalcados ou ovados a elípticos; flores sésseis |**52**|
+|**52.** Folíolos subfalcados, ápice agudo a atenuado, com tricomas concentrados próximos à nervura central; flores 0,6−0,8 cm compr. |***Tachigali beaurepairei*** |
+|**52'.** Folíolos ovados a elípticos, ápice acuminado, sem tricomas concentrados próximos à nervura central na face abaxial; flores 0,4−0,5 cm compr. |***Tachigali urbaniana*** |
+|**53.** Folhas parcialmente bipinadas; androceu com 1 estame e 9 estaminódios |***Moldenhawera polysperma***|
+|**53'.** Folhas bipinadas; androceu com mais de 1 estame e sem estaminódios ou até 5 estaminódios |**54** |
+|**54.** Ramos armados|**55** |
+|**54'.** Ramos inermes|**56** |
+|**55.** Ramos alados, estriados, foliólulos 16−70 pares |***Piptadenia gonoacantha***|
+|**55'.** Ramos sem alas e estrias, foliólulos 3−8 pares |***Piptadenia paniculata***|
+|**56.** Folhas sem nectários extraflorais|**57** |
+|**56'.** Folhas com nectários extraflorais|**59** |
+|**57.** Ramos, pecíolo e raque com tricomas glandulares; fruto sâmara |***Peltophorum dubium*** |
+|**57'.** Ramos, pecíolo e raque sem tricomas glandulares; fruto criptossâmara ou legume nucóide |**58** |
+|**58.** Foliólulos com margem revoluta; ápice dos foliólulos agudo a atenuado; inflorescência corimbiforme composta por racemos espiciformes laxos, flores com 5 estames e 5 estaminódios; fruto legume nucoide (indeiscente)|***Dimorphandra exaltata*** |
+|**58'.** Foliólulos com margem levemente revoluta; ápice dos foliólulos obtuso; inflorescência paniculada, flores com 10 estames; fruto criptossâmara (epicarpo deiscente) |***Schizolobium parahyba*** |
+|**59.** Nectários extraflorais ausentes no pecíolo  |**60** |
+|**59'.** Nectários extraflorais presentes no pecíolo |**61**|
+|**60.** Foliólulos 7−23 pares, face abaxial pubescente na nervura central |***Jupunba langsdorffii*** |
+|**60'.** Foliólulos com 3−8 pares, face abaxial pilosa ou vilosa |***Jupunba villosa***|
+|**61.** Pecíolo com mais de 5 cm; foliólulos alternos  |***Stryphnodendron dryaticum*** |
+|**61'.** Pecíolo com menos de 5 cm; foliólulos opostos ou subopostos |**62** |
+|**62.** Parafilídeos ausentes; unidade de inflorescência espiciforme; fruto folículo |**63** |
+|**62'.** Parafilídeos presentes; unidade de inflorescência glomeriforme; fruto legume ou legume bacóide |**66** |
+|**63.** Folhas com pinas sempre com 1−2 pares de foliólulos; flores com cálice sem indumento|***Pityrocarpa schumanniana*** |
+|**63'.** Folhas com pinas com 2−50 pares de foliólulos; flores com cálice com indumento  |**64** |
+|**64.** Folha com raque 0,9−3,4 cm compr., pinas 2−3 pares, foliólulos 2−6 pares; flores com corola e ovário sem indumento; fruto moniliforme |***Pityrocarpa inaequalis*** |
+|**64'.** Folha com raque 5,4−17,5 cm compr., pinas 12−17 pares, foliólulos 17−50 pares; flores com corola e ovário com indumento; fruto plano com margens apenas sinuosas |**65** |
+|**65.** Pinas com foliólulos 0,5−0,8 cm compr., subfalcados; flores 0,6−0,9 cm compr. |***Marlimorimia warmingii*** |
+|**65'.** Pinas com foliólulos 0,2−0,4 cm compr., filiformes; flores 0,4−0,5 cm compr. |***Marlimorimia contorta*** |
+|**66.** Pinas 7−11, foliólulos 9−27; inflorescência com flores heteromórficas; fruto legume |***Pseudalbizzia polycephala*** |
+|**66'.** Pinas (12−)17−20(−23), foliólulos (18−)26−61(−72); inflorescência com flores homomórficas; fruto legume bacóide |***Robrichia glaziovii*** |
+
+--------------------------------------------
+Em caso de problemas ou dúvidas, favor entrar em [contato](mailto:larasjdeccache@jbrj.gov.br).

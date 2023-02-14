@@ -1,0 +1,47 @@
+body {
+  margin: 0 auto;
+  margin-top: 60px;
+}
+
+.h4fotos {
+  font-family: "Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-size: 18px;
+}
+
+a {
+  color: #FF7F51;
+}
+
+a:hover {
+  color: #5E7656;
+}
+
+.pfotos {
+  font-size: 16px;
+  text-align: center;
+  font-family: "Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+}
+
+img {
+  width: 100%;
+  max-width: 700px;
+  margin: 0 auto;
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Three image containers (use 25% for four, and 50% for two, etc) */
+.columnfotos {
+  float: left;
+  width: 40%;
+  padding: 20px;
+}
+
+/* Clear floats after image containers */
+.rowfotos::after {
+  width: 100%;
+  content: "";
+  clear: both;
+  display: table;
+}

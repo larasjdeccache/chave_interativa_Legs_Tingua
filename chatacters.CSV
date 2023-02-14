@@ -1,0 +1,195 @@
+ID;Character.old;Character;Check.box.label;Check.box.id
+1;;Tronco inerme;Tronco;tronco
+2;;Tronco armado;Tronco;tronco
+3;;Ramos inermes;Ramos;ramos
+4;;Ramos armados;Ramos;ramos
+5;;Ramos sem lenticelas;Ramos;ramos
+6;;Ramos com lenticelas;Ramos;ramos
+7;;Ramos sem indumento;Ramos;ramos
+8;;Ramos com indumento;Ramos;ramos
+9;;Nectários extraflorais ausentes;Nectários;nectarios
+10;;Nectários extraflorais presentes na axila;Nectários;nectarios
+11;;Nectários extraflorais presentes no pecíolo;Nectários;nectarios
+12;;Nectários extraflorais presentes na raque;Nectários;nectarios
+13;;Nectários extraflorais presentes na ráquila;Nectários;nectarios
+14;;Nectários extraflorais presentes no folíolo;Nectários;nectarios
+15;;Pontuações translúcidas ausentes;Pontuações;pontuacoes
+16;;Pontuações translúcidas presentes;Pontuações;pontuacoes
+17;;Glândulas peltadas ausentes;Glândulas;glandulas
+18;;Glândulas peltadas presentes;Glândulas;glandulas
+19;;Estipelas ausentes;Estipelas;estipelas
+20;;Estipelas presentes;Estipelas;estipelas
+21;;Folhas alternas;Filotaxia;filotaxia
+22;;Folhas opostas;Filotaxia;filotaxia
+23;;Folíolos alternos;Filotaxia;filotaxia
+24;;Folíolos opostos a subopostos;Filotaxia;filotaxia
+25;;Foliólulos alternos;Filotaxia;filotaxia
+26;;Foliólulos opostos a subopostos;Filotaxia;filotaxia
+27;;Folhas pinadas;Folhas;folhas
+28;;Folhas bipinadas;Folhas;folhas
+29;;Folhas paripinadas;Folhas;folhas
+30;;Folhas imparipinadas;Folhas;folhas
+31;;Folhas parcialmente bipinadas;Folhas;folhas
+32;;Folíolo: 1;Folhas;folhas
+33;;Folíolos: 2;Folhas;folhas
+34;;Folíolos: 3;Folhas;folhas
+35;;Folíolos: 4;Folhas;folhas
+36;;Folíolos: 5;Folhas;folhas
+37;;Folíolos: 6;Folhas;folhas
+38;;Folíolos: 7;Folhas;folhas
+39;;Folíolos: 8;Folhas;folhas
+40;;Folíolos: 9;Folhas;folhas
+41;;Folíolos: 10;Folhas;folhas
+42;;Folíolos: 11;Folhas;folhas
+43;;Folíolos: 12;Folhas;folhas
+44;;Folíolos: 13;Folhas;folhas
+45;;Folíolos: 14;Folhas;folhas
+46;;Folíolos: 15;Folhas;folhas
+47;;Folíolos: 16;Folhas;folhas
+48;;Folíolos: 18;Folhas;folhas
+49;;Folíolos: 19;Folhas;folhas
+50;;Folíolos: 20;Folhas;folhas
+51;;Folíolos: mais de 20;Folhas;folhas
+52;;Foliólulos: 3 pares;Folhas;folhas
+53;;Foliólulos: 4 pares;Folhas;folhas
+54;;Foliólulos: 5 pares;Folhas;folhas
+55;;Foliólulos: 6 pares;Folhas;folhas
+56;;Foliólulos: 7 pares;Folhas;folhas
+57;;Foliólulos: 8 pares;Folhas;folhas
+58;;Foliólulos: 9 pares;Folhas;folhas
+59;;Foliólulos: 10 - 15pares;Folhas;folhas
+60;;Foliólulos: 16 - 20 pares;Folhas;folhas
+61;;Foliólulos: 21 pares;Folhas;folhas
+62;;Foliólulos: 22 pares;Folhas;folhas
+63;;Foliólulos: 23 pares;Folhas;folhas
+64;;Foliólulos: 24 pares;Folhas;folhas
+65;;Foliólulos: mais de 25 pares;Folhas;folhas
+66;;Sem margem revoluta;Folhas;folhas
+67;;Com margem levemente revoluta ou revoluta;Folhas;folhas
+68;;Folíolos ou foliólulos ovados a lanceolados;Folhas;folhas
+69;;Folíolos ou foliólulos ovados a elípticos;Folhas;folhas
+70;;Folíolos ou foliólulos obovados a elípticos;Folhas;folhas
+71;;Folíolos ou foliólulos oblanceolados;Folhas;folhas
+72;;Folíolos ou foliólulos elípticos;Folhas;folhas
+73;;Folíolos ou foliólulos oblongos;Folhas;folhas
+74;;Folíolos ou foliólulos oblongos a elípticos;Folhas;folhas
+75;;Folíolos ou foliólulos oblongos a lanceolados;Folhas;folhas
+76;;Folíolos ou foliólulos lineares;Folhas;folhas
+77;;Folíolos ou foliólulos subfalcados;Folhas;folhas
+78;;Folíolos ou foliólulos rômbicos a lanceolados;Folhas;folhas
+79;;Folíolos ou foliólulos de ápice agudo;Folhas;folhas
+80;;Folíolos ou foliólulos de ápice atenuado;Folhas;folhas
+81;;Folíolos ou foliólulos de ápice acuminado;Folhas;folhas
+82;;Folíolos ou foliólulos de ápice caudado;Folhas;folhas
+83;;Folíolos ou foliólulos de ápice cuspidado;Folhas;folhas
+84;;Folíolos ou foliólulos de ápice retuso;Folhas;folhas
+85;;Folíolos ou foliólulos de ápice emarginado;Folhas;folhas
+86;;Folíolos ou foliólulos de ápice mucronado;Folhas;folhas
+87;;Folíolos ou foliólulos de ápice arredondado;Folhas;folhas
+88;;Folíolos ou foliólulos de ápice obtuso;Folhas;folhas
+89;;Folíolos ou foliólulos de base cuneada;Folhas;folhas
+90;;Folíolos ou foliólulos de base atenuada;Folhas;folhas
+91;;Folíolos ou foliólulos de base obtusa;Folhas;folhas
+92;;Folíolos ou foliólulos de base arredondada;Folhas;folhas
+93;;Folíolos ou foliólulos de base assimétrica;Folhas;folhas
+94;;Folíolos ou foliólulos de base truncada;Folhas;folhas
+95;;Folíolos ou foliólulos de base subcordada;Folhas;folhas
+96;;Folíolos ou foliólulos de base obliqua;Folhas;folhas
+97;;Folíolos ou foliólulos sem indumentos;Folhas;folhas
+98;;Folíolos ou foliólulos com indumentos;Folhas;folhas
+99;;Pecíolo cilíndrico;Pecíolo;peciolo
+100;;Pecíolo canaliculado;Pecíolo;peciolo
+101;;Pecíolo marginado;Pecíolo;peciolo
+102;;Pecíolo alado;Pecíolo;peciolo
+103;;Pecíolo sem indumento;Pecíolo;peciolo
+104;;Pecíolo com indumento;Pecíolo;peciolo
+105;;Raque cilíndrica;Raque;raque
+106;;Raque canaliculada;Raque;raque
+107;;Raque marginada;Raque;raque
+108;;Raque alada;Raque;raque
+109;;Raque sem indumento;Raque;raque
+110;;Raque com indumento;Raque;raque
+111;;Inflorescência axilar;Inflorescência;inflorescencia
+112;;Inflorescência ramiflora;Inflorescência;inflorescencia
+113;;Inflorescência terminal;Inflorescência;inflorescencia
+114;;Inflorescência cimosa;Inflorescência;inflorescencia
+115;;Inflorescência pseudoracemosa;Inflorescência;inflorescencia
+116;;Inflorescência racemosa;Inflorescência;inflorescencia
+117;;Inflorescência racemosa espiciforme;Inflorescência;inflorescencia
+118;;Inflorescência glomeruliforme;Inflorescência;inflorescencia
+119;;Inflorescência paniculada;Inflorescência;inflorescencia
+120;;Inflorescência umbelada;Inflorescência;inflorescencia
+121;;Inflorescência congesta;Inflorescência;inflorescencia
+122;;Inflorescência laxa;Inflorescência;inflorescencia
+123;;Flores actinomorfas;Flores;flores
+124;;Flores zigomorfas não papilionadas;Flores;flores
+125;;Flores zigomorfas papilionadas;Flores;flores
+126;;Flores assimétricas;Flores;flores
+127;;Flores pediceladas;Flores;flores
+128;;Flores sésseis a subsésseis;Flores;flores
+129;;Cálice gamossépalo;Cálice;calice
+130;;Cálice dialissépalo;Cálice;calice
+131;;Cálice campanulado;Cálice;calice
+132;;Cálice urseolado;Cálice;calice
+133;;Cálice infundibuliforme;Cálice;calice
+134;;Cálice tubular;Cálice;calice
+135;;Cálice sem indumento;Cálice;calice
+136;;Cálice com indumento;Cálice;calice
+137;;Corola gamopétala;Corola;corola
+138;;Corola dialipétala;Corola;corola
+139;;Corola campanulada;Corola;corola
+140;;Corola infundibuliforme;Corola;corola
+141;;Corola tubular;Corola;corola
+142;;Corola urseolada;Corola;corola
+143;;Corola com lacínias irregulares;Corola;corola
+144;;Corola papilionada;Corola;corola
+145;;Corola sem indumento;Corola;corola
+146;;Corola com indumento;Corola;corola
+147;;Corola alva ou alvo-esverdeada;Corola;corola
+148;;Corola amarela ou amarelo-esverdeada;Corola;corola
+149;;Corola vermelha;Corola;corola
+150;;Corola róseo-violácea;Corola;corola
+151;;Estames: 2;Androceu;androceu
+152;;Estames: 3;Androceu;androceu
+153;;Estames: 5;Androceu;androceu
+154;;Estames: 10;Androceu;androceu
+155;;Estames: mais de 10;Androceu;androceu
+156;;Estames livres;Androceu;androceu
+157;;Estames unidos em tubo estaminal;Androceu;androceu
+158;;Estames monadelfos;Androceu;androceu
+159;;Estames diadelfos;Androceu;androceu
+160;;Estames sigmóides (formando S) presentes;Androceu;androceu
+161;;Anteras poricidas;Androceu;androceu
+162;;Anteras rimosas;Androceu;androceu
+163;;Anteras basefixas;Androceu;androceu
+164;;Anteras dorsifixas;Androceu;androceu
+165;;Anteras sésseis a subsésseis;Androceu;androceu
+166;;Androceu sem indumento;Androceu;androceu
+167;;Androceu com indumento;Androceu;androceu
+168;;Estaminódios ausentes;Androceu;androceu
+169;;Estaminódios presentes;Androceu;androceu
+170;;Ovário estipitado;Gineceu;gineceu
+171;;Ovário séssil;Gineceu;gineceu
+172;;Ovário sem indumento;Gineceu;gineceu
+173;;Ovário com indumento;Gineceu;gineceu
+174;;Criptossâmara;Fruto;fruto
+175;;Drupa;Fruto;fruto
+176;;Legume;Fruto;fruto
+177;;Legume Bacáceo;Fruto;fruto
+178;;Legume Samaróide;Fruto;fruto
+179;;Lomento Drupáceo;Fruto;fruto
+180;;Sâmara (com núcleo seminífero central e ala marginal);Fruto;fruto
+181;;Sâmara (com núcleo seminífero basal e ala distal);Fruto;fruto
+182;;Fruto com deiscência elástica;Fruto;fruto
+183;;Fruto com deiscência espiralada;Fruto;fruto
+184;;Fruto cilíndrico;Fruto;fruto
+185;;Fruto espiralado ou curvo;Fruto;fruto
+186;;Fruto plano;Fruto;fruto
+187;;Fruto tetragonal;Fruto;fruto
+188;;Fruto ovóide;Fruto;fruto
+189;;Fruto orbicular;Fruto;fruto
+190;;Fruto elipsóide;Fruto;fruto
+191;;Fruto lenhoso;Fruto;fruto
+192;;Fruto cartáceo;Fruto;fruto
+193;;Fruto sem indumento;Fruto;fruto
+194;;Fruto com indumento;Fruto;fruto
